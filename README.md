@@ -1,6 +1,7 @@
 # 👋 Olá! Eu sou o Humberto de Moraes Lanzieri Filho
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/hlanzieri/)_
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/hlanzieri/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?logo=github)](https://github.com/hlanzieri)
 
 ---
