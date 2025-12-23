@@ -49,7 +49,7 @@ Projeto de iniciação científica desenvolvido entre 2024 e 2025, com apoio do 
 - **Email:** humbertolanzierifilho@gmail.com
 - **LinkedIn:** [linkedin.com/in/hlanzieri](https://www.linkedin.com/in/hlanzieri/)
 - **GitHub:** [github.com/hlanzieri](https://github.com/hlanzieri)
-- **Instagram:** [https://www.instagram.com/hlanzieri/]
+- **Instagram:** instagram.com/hlanzieri
 
 ---
 
