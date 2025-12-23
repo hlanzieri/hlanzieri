@@ -8,13 +8,13 @@
 
 ## Sobre mim
 
-Sou estudante de Informática, apaixonado por tecnologia, inovação e pelo desenvolvimento de soluções que gerem impacto positivo na sociedade. Tenho experiência em projetos acadêmicos, pesquisa e desenvolvimento de software, com foco em backend, inteligência artificial e aplicações web.
+Sou técnico em informática, tenho interesse em inovação e desenvolvimento de soluções que gerem impacto positivo na sociedade. Tenho experiência em projetos acadêmicos, pesquisa e desenvolvimento de software, com foco em backend, inteligência artificial e aplicações web.
 
 ---
 
 ## 🏫 Vida Acadêmica
 
-- **Técnico em Informática (em conclusão)**
+- **Técnico em Informática**
   - **Instituição:** CEFET-MG
   - **Foco:** Programação, algoritmos, sistemas embarcados e desenvolvimento de aplicações.
 - **Projetos de pesquisa**
@@ -28,6 +28,7 @@ Sou estudante de Informática, apaixonado por tecnologia, inovação e pelo dese
 
 ### [Ajudae](https://github.com/hlanzieri/Ajudae)
 Sistema que conecta pessoas que buscam a contratação de serviços com autônomos que ofertam seus serviços, contribuindo para o combate à informalidade no país.
+Disponível em (https://ajudae.linceonline.com.br)
 
 **Principais tecnologias utilizadas:**
 - Node.js
@@ -38,7 +39,7 @@ Sistema que conecta pessoas que buscam a contratação de serviços com autônom
 
 ---
 
-### IPAQmove Web
+### [IPAQmove Web]
 Projeto de iniciação científica desenvolvido entre 2024 e 2025, com apoio do CNPq e do CEFET-MG, voltado para pesquisa e inovação em tecnologia.
 
 ---
@@ -48,6 +49,7 @@ Projeto de iniciação científica desenvolvido entre 2024 e 2025, com apoio do 
 - **Email:** humbertolanzierifilho@gmail.com
 - **LinkedIn:** [linkedin.com/in/hlanzieri](https://www.linkedin.com/in/hlanzieri/)
 - **GitHub:** [github.com/hlanzieri](https://github.com/hlanzieri)
+- **Instagram:** [https://www.instagram.com/hlanzieri/]
 
 ---
 
