@@ -39,8 +39,16 @@ Disponível em (https://ajudae.linceonline.com.br)
 
 ---
 
-### [IPAQmove Web]
+### [IPAQmove Web](https://github.com/hlanzieri/IPAQmoveWEB)
 Projeto de iniciação científica desenvolvido entre 2024 e 2025, com apoio do CNPq e do CEFET-MG, voltado para pesquisa e inovação em tecnologia.
+Disponível em (https://ipaqmove.linceonline.com.br)
+
+**Principais tecnologias utilizadas:**
+- Node.js
+- React
+- Tailwind CSS
+- JavaScript
+- HTML/CSS
 
 ---
 
