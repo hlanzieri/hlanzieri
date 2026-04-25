@@ -55,6 +55,13 @@ Disponível em (https://ipaqmove.linceonline.com.br)
 ### [GereComp](https://github.com/hlanzieri/gereComp)
 Projeto pessoal para auxílio no gerenciamento da vida acadêmica de cursandos de Ciência da Computação na UFJF, haja vista as dificuldades em gerenciar o período necessário gasto com matérias eletivas, optativas e atividades de extensão, além da organização de horários e calendário acadêmico. O sistema contempla uma experiência de gameficação com xps que indicam o progresso do discente por atividades ou disciplinas concluídas. Disponível em (https://gerecomp.vercel.app)
 
+**Principais tecnologias utilizadas:**
+- Prisma
+- Next.js
+- Tailwind CSS
+- TypeScript
+- HTML/CSS
+
 ## 📫 Contato
 
 - **Email:** humbertolanzierifilho@gmail.com
