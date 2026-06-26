@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/content?type=waving&color=auto&height=250&section=header&text=Humberto%20Lanzieri&fontSize=70&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/content?type=waving&color=0:007acc,100:38b2ac&height=250&section=header&text=Humberto%20Lanzieri&fontSize=70&animation=fadeIn" alt="Header" />
 </div>
 
 <div align="center">
@@ -116,5 +116,5 @@ Seja para discutir um projeto, uma oportunidade de colaboração ou apenas para 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/content?type=waving&color=auto&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/content?type=waving&color=0:007acc,100:38b2ac&height=100&section=footer" alt="Footer" />
 </div>
