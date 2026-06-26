@@ -55,8 +55,6 @@ Tenho interesse em inovação e desenvolvimento de soluções que gerem impacto 
 
 ## 🚀 Projetos em Destaque
 
-## 🚀 Projetos em Destaque
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -85,7 +83,7 @@ Tenho interesse em inovação e desenvolvimento de soluções que gerem impacto 
     <td width="50%" valign="top">
       <h3>🤖 Strux</h3>
       <p>Desenvolvimento e análise de modelos inteligentes aplicados a dados estruturados. O projeto conta com um ambiente interativo focado em experimentação, engenharia de recursos e avaliação de performance.</p>
-      <span>📓 <em>Notebook dedicado disponível no repositório</em></span>
+      <a href="https://strux-eng.vercel.app">✨ Visitar Demonstração</a>
       <br /><br />
       <code>Python</code> <code>Jupyter Notebook</code> <code>Data Science</code> <code>Machine Learning</code>
     </td>
