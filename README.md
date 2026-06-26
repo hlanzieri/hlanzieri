@@ -55,6 +55,8 @@ Tenho interesse em inovação e desenvolvimento de soluções que gerem impacto 
 
 ## 🚀 Projetos em Destaque
 
+## 🚀 Projetos em Destaque
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -66,7 +68,7 @@ Tenho interesse em inovação e desenvolvimento de soluções que gerem impacto 
     </td>
     <td width="50%" valign="top">
       <h3>🔬 <a href="https://github.com/hlanzieri/IPAQmoveWEB">IPAQmove Web</a></h3>
-      <p>Projeto de iniciação científica desenvolvido entre 2024 e 2025 com apoio do CNPq e CEFET-MG, focado em pesquisa, coleta de dados e inovação tecnológica.</p>
+      <p>Projeto de iniciação científica desenvolvido com apoio do CNPq e CEFET-MG, focado em pesquisa, coleta de dados e inovação tecnológica.</p>
       <a href="https://ipaqmove.linceonline.com.br">✨ Visitar Demonstração</a>
       <br /><br />
       <code>React</code> <code>Node.js</code> <code>Tailwind CSS</code> <code>JavaScript</code>
@@ -81,15 +83,22 @@ Tenho interesse em inovação e desenvolvimento de soluções que gerem impacto 
       <code>Next.js</code> <code>Prisma</code> <code>TypeScript</code> <code>Tailwind CSS</code>
     </td>
     <td width="50%" valign="top">
+      <h3>🤖 Strux</h3>
+      <p>Desenvolvimento e análise de modelos inteligentes aplicados a dados estruturados. O projeto conta com um ambiente interativo focado em experimentação, engenharia de recursos e avaliação de performance.</p>
+      <span>📓 <em>Notebook dedicado disponível no repositório</em></span>
+      <br /><br />
+      <code>Python</code> <code>Jupyter Notebook</code> <code>Data Science</code> <code>Machine Learning</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🏢 <a href="https://github.com/hlanzieri/lanfer">LANFER</a></h3>
       <p>Landing page profissional de alta conversão para uma empresa do ramo imobiliário, apresentando portfólio de projetos concluídos, lançamentos e captação de leads.</p>
       <a href="https://lanfer.vercel.app">✨ Visitar Demonstração</a>
       <br /><br />
       <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3>🛍️ <a href="https://github.com/hlanzieri/SOROUPAS">SoRoupas</a></h3>
       <p>Landing page focada em conversão e captação de clientes para o varejo de moda, cobrindo as unidades físicas de Cataguases e Leopoldina com dados de localização e contato.</p>
       <a href="https://soroupas.vercel.app">✨ Visitar Demonstração</a>
