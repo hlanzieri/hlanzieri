@@ -85,7 +85,7 @@ Tenho interesse em inovação e desenvolvimento de soluções que gerem impacto 
       <p>Desenvolvimento e análise de modelos inteligentes aplicados a dados estruturados. O projeto conta com um ambiente interativo focado em experimentação, engenharia de recursos e avaliação de performance.</p>
       <a href="https://strux-eng.vercel.app">✨ Visitar Demonstração</a>
       <br /><br />
-      <code>Python</code> <code>Jupyter Notebook</code> <code>Data Science</code> <code>Machine Learning</code>
+      <code>Next.js</code>  <code>Prisma</code> <code>TypeScript</code> <code>Tailwind CSS</code>
     </td>
   </tr>
   <tr>
