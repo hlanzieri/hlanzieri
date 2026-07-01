@@ -103,6 +103,7 @@ Tenho interesse em inovação e desenvolvimento de soluções que gerem impacto 
       <br /><br />
       <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code>
     </td>
+    <tr>
     <td width="50%" valign="top">
       <h3>🦷 <a href="https://github.com/hlanzieri/landingpage-beatrizlanzieri">Landing Page Dra. Beatriz</a></h3>
       <p>Landing page focada em conversão e captação de pacientes para tratamento ortodônticos, com informações de contato e sobre a capacitação da profissional.</p>
@@ -110,6 +111,7 @@ Tenho interesse em inovação e desenvolvimento de soluções que gerem impacto 
       <br /><br />
       <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code>
     </td>
+    </tr>
   </tr>
 </table>
 
