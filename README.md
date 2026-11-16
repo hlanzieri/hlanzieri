@@ -46,16 +46,32 @@ Tenho interesse em inovação e desenvolvimento de soluções que gerem impacto 
     *   **Foco:** Programação, algoritmos, sistemas embarcados e desenvolvimento de aplicações.
 *   **Graduação em Ciência da Computação** — *UFJF*
     *   **Foco:** Programação, engenharia de software e fundamentos matemáticos avançados.
-*   **Pesquisa Científica & Inovação**
-    *   Participação ativa em projetos de iniciação científica e desenvolvimento de sistemas com suporte institucional.
+*   **Pesquisa Científica, Extensão e Treinamento Profissional**
+    *   Atuação em projetos de iniciação científica, mobilidade e comunicação/presença digital na UFJF (incluindo VIC-DT/UFJF e Treinamento Profissional no PPEE/UFJF).
 *   **Eventos e Hackathons**
-    *   Presença em maratonas de programação e eventos acadêmicos, buscando colaboração em equipes multidisciplinares.
+    *   Participação em maratonas de programação e eventos acadêmicos, como o **Hackathon Rerum da SDC 2026** com o sistema **Akinutri**.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🥗 <a href="https://github.com/hlanzieri/hackathon-rerum">Akinutri — Hackathon Rerum (SDC 2026)</a></h3>
+      <p>Solução desenvolvida durante o Hackathon Rerum da SDC 2026 com o sistema Akinutri, unindo tecnologia, inovação e colaboração em equipe.</p>
+      <a href="https://hlanzieri.github.io/hackathon-rerum/">✨ Visitar Demonstração</a>
+      <br /><br />
+      <code>Web</code> <code>Hackathon</code> <code>SDC 2026</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚖️ Gouvêa & Corrêa Advogados</h3>
+      <p>Website institucional desenvolvido para o escritório Gouvêa & Corrêa Advogados, apresentando atuação jurídica, áreas de prática e canais de contato.</p>
+      <a href="https://gouveaecorreaadvogados.com.br/">✨ Visitar Site</a> · <code>Repositório Privado</code>
+      <br /><br />
+      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🌍 <a href="https://github.com/hlanzieri/Ajudae">Ajudae</a></h3>
@@ -81,11 +97,11 @@ Tenho interesse em inovação e desenvolvimento de soluções que gerem impacto 
       <code>Next.js</code> <code>Prisma</code> <code>TypeScript</code> <code>Tailwind CSS</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Strux</h3>
-      <p>Desenvolvimento e análise de modelos inteligentes aplicados a dados estruturados. O projeto conta com um ambiente interativo focado em experimentação, engenharia de recursos e avaliação de performance.</p>
+      <h3>🏗️ Strux</h3>
+      <p>Plataforma SaaS ERP para gestão de canteiros de obras, acompanhamento financeiro e controle de entrada de materiais.</p>
       <a href="https://strux-eng.vercel.app">✨ Visitar Demonstração</a>
       <br /><br />
-      <code>Next.js</code>  <code>Prisma</code> <code>TypeScript</code> <code>Tailwind CSS</code>
+      <code>Next.js</code> <code>Prisma</code> <code>TypeScript</code> <code>Tailwind CSS</code>
     </td>
   </tr>
   <tr>
@@ -103,15 +119,16 @@ Tenho interesse em inovação e desenvolvimento de soluções que gerem impacto 
       <br /><br />
       <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code>
     </td>
-    <tr>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🦷 <a href="https://github.com/hlanzieri/landingpage-beatrizlanzieri">Landing Page Dra. Beatriz</a></h3>
-      <p>Landing page focada em conversão e captação de pacientes para tratamento ortodônticos, com informações de contato e sobre a capacitação da profissional.</p>
+      <p>Landing page focada em conversão e captação de pacientes para tratamentos ortodônticos, com informações de contato e sobre a capacitação da profissional.</p>
       <a href="https://dra-beatrizsasso.vercel.app">✨ Visitar Demonstração</a>
       <br /><br />
       <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code>
     </td>
-    </tr>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
