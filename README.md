@@ -34,6 +34,14 @@ Tenho interesse em inovação e desenvolvimento de soluções que gerem impacto 
   <br />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <br />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
@@ -56,22 +64,6 @@ Tenho interesse em inovação e desenvolvimento de soluções que gerem impacto 
 ## 🚀 Projetos em Destaque
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🥗 <a href="https://github.com/hlanzieri/hackathon-rerum">Akinutri — Hackathon Rerum (SDC 2026)</a></h3>
-      <p>Solução desenvolvida durante o Hackathon Rerum da SDC 2026 com o sistema Akinutri, unindo tecnologia, inovação e colaboração em equipe.</p>
-      <a href="https://hlanzieri.github.io/hackathon-rerum/">✨ Visitar Demonstração</a>
-      <br /><br />
-      <code>Web</code> <code>Hackathon</code> <code>SDC 2026</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚖️ Gouvêa & Corrêa Advogados</h3>
-      <p>Website institucional desenvolvido para o escritório Gouvêa & Corrêa Advogados, apresentando atuação jurídica, áreas de prática e canais de contato.</p>
-      <a href="https://gouveaecorreaadvogados.com.br/">✨ Visitar Site</a> · <code>Repositório Privado</code>
-      <br /><br />
-      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code>
-    </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🌍 <a href="https://github.com/hlanzieri/Ajudae">Ajudae</a></h3>
@@ -128,7 +120,29 @@ Tenho interesse em inovação e desenvolvimento de soluções que gerem impacto 
       <br /><br />
       <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3>🗺️ LocalizaUFJF</h3>
+      <p>Plataforma de mapeamento interativo e acompanhamento de mobilidade no campus da UFJF para facilitar a localização e o deslocamento da comunidade acadêmica.</p>
+      <a href="https://getengcomp.nrc.ice.ufjf.br/map/">✨ Visitar Demonstração</a>
+      <br /><br />
+      <code>React</code> <code>TypeScript</code> <code>Leaflet</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🥗 <a href="https://github.com/hlanzieri/hackathon-rerum">Akinutri — Hackathon Rerum (SDC 2026)</a></h3>
+      <p>Solução desenvolvida durante o Hackathon Rerum da SDC 2026 com o sistema Akinutri, unindo tecnologia, inovação e colaboração em equipe.</p>
+      <a href="https://hlanzieri.github.io/hackathon-rerum/">✨ Visitar Demonstração</a>
+      <br /><br />
+      <code>Web</code> <code>Hackathon</code> <code>SDC 2026</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚖️ Gouvêa & Corrêa Advogados</h3>
+      <p>Website institucional desenvolvido para o escritório Gouvêa & Corrêa Advogados, apresentando atuação jurídica, áreas de prática e canais de contato.</p>
+      <a href="https://gouveaecorreaadvogados.com.br/">✨ Visitar Site</a>
+      <br /><br />
+      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code>
+    </td>
   </tr>
 </table>
 
